@@ -20,4 +20,13 @@
     background-color: white;
     color: black;
 }
-
+/* styled About section*/
+.column {
+    float: left;
+}
+.left {
+    width: 25%;
+}
+:right {
+    width: 75%;
+}
