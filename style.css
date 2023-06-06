@@ -23,10 +23,12 @@
 /* styled About section*/
 .column {
     float: left;
+    
 }
 .left {
     width: 25%;
+    
 }
-:right {
+.right {
     width: 75%;
 }
