@@ -1,0 +1,19 @@
+/*Added background color to nav bar*/
+.topnav {
+    background-color: cornflowerblue;
+    overflow: hidden;
+}
+
+/*style links inside the navigation bar*/
+.topnav a {
+    float: right;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px 18px;
+    text-decoration: underline;
+    font-size: 36 px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
