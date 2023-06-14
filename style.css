@@ -11,6 +11,7 @@ h1 {
     align-items: left;
     
 }
+/*added profile picture*/
 .my-image img{
     width: 100%;
     }
@@ -52,6 +53,7 @@ h1 {
     flex: 1;
 
 }
+/*added large and small images*/
 .large-image img{
 width: 100%;
 }
