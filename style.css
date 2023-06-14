@@ -4,6 +4,22 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+h1 {
+    display: flex;
+
+    line-height: 100px;
+    align-items: left;
+    
+}
+.my-image img{
+    width: 100%;
+    }
+    .my-image {
+        width: 15rem;
+        display: flex;
+    
+    }
+
 .about-me {
     display: flex;
     flex-direction: row;
