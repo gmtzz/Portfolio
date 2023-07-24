@@ -27,6 +27,12 @@ h1 {
     justify-content: center;
     align-items: center;
     border-right: solid black 1px;
+    justify-content: center;
+}
+.project-latest {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .about-me> *{
     flex: 1;
@@ -43,6 +49,12 @@ h1 {
 }
 .Resume> * {
     flex: 1;
+
+}
+.Projects{
+    display: flex;
+    flex-direction: row;
+    border-right: solid black 1px;
 }
 .Work{
     display: flex;
@@ -117,6 +129,7 @@ width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     
 }
+
 
 
 @media screen and (max-width:768px) {
